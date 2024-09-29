@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm a passionate **Machine Learning Engineer** with a f
 - 🌱 I’m currently working on various machine learning projects such as predictive modeling, image recognition, and sentiment analysis.
 - 🔭 I'm actively contributing to open-source projects and learning advanced deep learning techniques.
 - 🤖 My tech stack includes Python, TensorFlow, Keras, and scikit-learn.
-- 📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar/) for collaboration or just to chat!
+- 📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/) for collaboration or just to chat!
 
 ### Github Statistics
 <p align="left">
