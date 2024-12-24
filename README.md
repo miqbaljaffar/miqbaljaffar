@@ -1,12 +1,12 @@
 # Hi, I'm Mohammad Iqbal Jaffar! 👋
 
-Welcome to my portfolio! I'm a passionate **Machine Learning Engineer** with a focus on building intelligent systems and developing solutions using AI. I'm currently pursuing my degree in Informatics at **Universitas Teknologi Bandung**, where I'm expanding my skills in data science, computer vision, and natural language processing.
+Welcome to my portfolio! I'm a passionate **Informatics Engineering** student with a strong interest in **Machine Learning**, **IoT**, and **Data Analysis**. Currently, I'm pursuing my degree at **Universitas Teknologi Bandung**, where I'm expanding my skills in AI, computer vision, and data science to develop intelligent systems and impactful solutions.
 
 ### About Me
-- 🌱 I’m currently working on various machine learning projects such as predictive modeling, image recognition, and sentiment analysis.
-- 🔭 I'm actively contributing to open-source projects and learning advanced deep learning techniques.
-- 🤖 My tech stack includes Python, TensorFlow, Keras, and scikit-learn.
-- 📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/) for collaboration or just to chat!
+- 🌱 I’m currently working on various machine learning projects, including **image recognition** and **OCR for sugar consumption monitoring**.
+- 🔭 I'm focused on building AI-powered applications, such as nutrition fact detection and waste sorting systems.
+- 🤖 My tech stack includes **Python**, **TensorFlow**, **SQL**, **Firebase**, and **machine learning** frameworks like **CNN** and **OCR**.
+- 📫 Let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/) for collaboration or just to chat!
 
 ### Github Statistics
 <p align="left">
@@ -17,6 +17,22 @@ Welcome to my portfolio! I'm a passionate **Machine Learning Engineer** with a f
 </p>
 
 ### Featured Projects
-- 🧠 **Smart Trash Bin with Machine Learning Integration** – Developed an IoT-based smart bin that uses image recognition to sort waste.
-- 🔍 **Predictive Maintenance** – Created a predictive model to anticipate machine failures using sensor data.
-- 📊 **Stock Price Prediction** – Built a time-series forecasting model using LSTM to predict stock market trends.
+- 🧠 **"Glucoscan" Sugar Monitoring App**  
+  Developed an AI-powered app to detect nutrition facts on product packaging using **OCR** and **CNN**. It tracks sugar consumption and alerts users about safe, caution, or danger levels based on daily intake.
+
+- ♻️ **"GreenTechRecycle" Waste Sorting System**  
+  Created an **IoT-based** waste sorting system that categorizes waste into metal, organic, and non-organic types using sensors like inductive proximity and LDR.
+
+- 📚 **"PerpusSmart" Library Management System**  
+  Designed a desktop application to automate library operations, improving efficiency in book tracking and inventory management.
+
+### Training & Certifications
+- **DBS Foundation Coding Camp 2024**: Machine Learning, Data Visualization, Python Programming  
+- **Bangkit Academy 2024**: TensorFlow, Generative Adversarial Networks (GANs), Deep Learning Specializations  
+
+---
+
+Feel free to explore my work and projects. You can find more details in my portfolio:
+- **Website Profile**: [miqbaljaffar.github.io](https://miqbaljaffar.github.io/username.github.io/)
+- **GitHub**: [github.com/miqbaljaffar](https://github.com/miqbaljaffar)
+- **LinkedIn**: [Mohammad Iqbal Jaffar](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/)
