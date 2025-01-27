@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Iqbal Jaffar! 👋
 
-Welcome to my portfolio! I'm a passionate **Informatics Engineering** student with a strong interest in **Machine Learning**, **IoT**, and **Data Scientist**. Currently, I'm pursuing my degree at **Universitas Teknologi Bandung**, where I'm expanding my skills in AI, computer vision, and data science to develop intelligent systems and impactful solutions.
+Welcome to my portfolio! I'm a passionate **Informatics Engineering** student with a strong interest in **Machine Learning** and **Data Scientist**. Currently, I'm pursuing my degree at **Universitas Teknologi Bandung**, where I'm expanding my skills in AI, computer vision, and data science to develop intelligent systems and impactful solutions.
 
 ### About Me
 - 🌱 I’m currently working on various machine learning projects, including **image recognition** and **OCR for sugar consumption monitoring**.
