@@ -1,38 +1,54 @@
-# Hi, I'm Mohammad Iqbal Jaffar! 👋
+# Hi, I'm Mohammad Iqbal Jaffar! 👋  
 
-Welcome to my portfolio! I'm a passionate **Informatics Engineering** student with a strong interest in **Machine Learning** and **Data Scientist**. Currently, I'm pursuing my degree at **Universitas Teknologi Bandung**, where I'm expanding my skills in AI, computer vision, and data science to develop intelligent systems and impactful solutions.
+Welcome to my portfolio! I'm a passionate **Machine Learning Engineer** and **Data Scientist** with expertise in **AI-driven solutions, predictive modeling, and object detection**. Currently, I'm pursuing my **Bachelor’s degree in Informatics Engineering** at **Universitas Teknologi Bandung**, where I continuously refine my skills through real-world projects and specialized certifications.  
 
-### About Me
-- 🌱 I’m currently working on various machine learning projects, including **image recognition** and **OCR for sugar consumption monitoring**.
-- 🔭 I'm focused on building AI-powered applications, such as nutrition fact detection and waste sorting systems.
-- 🤖 My tech stack includes **Python**, **TensorFlow**, **SQL**, **Firebase**, and **machine learning** frameworks like **CNN** and **OCR**.
-- 📫 Let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/) for collaboration or just to chat!
+### 🚀 About Me  
+- 🔍 I specialize in **Machine Learning, Deep Learning, and Computer Vision**, focusing on **predictive analytics, image recognition, and OCR-based solutions**.  
+- 💡 My projects involve **nutrition fact classification, recommendation systems, predictive modeling, and data analysis** to extract meaningful insights.  
+- 🛠️ My tech stack includes **Python, TensorFlow, Keras, OpenCV, PaddleOCR, SQL, Firebase, and Streamlit** for interactive data visualization.  
+- 🔬 Currently working on projects related to **vehicle price prediction, phone recommendation systems, and exploratory data analysis (EDA) for e-commerce and sales datasets**.  
+- 📩 Let’s connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/) for collaborations or discussions.  
 
-### Github Statistics
+### 📊 GitHub Statistics  
 <p align="left">
 <a href="https://github.com/miqbaljaffar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miqbaljaffar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miqbaljaffar&layout=compact&theme=algolia"/>
 </a>
-</p>
+</p>  
 
-### Featured Projects
-- 🧠 **"Glucoscan" Sugar Monitoring App**  
-  Developed an AI-powered app to detect nutrition facts on product packaging using **OCR** and **CNN**. It tracks sugar consumption and alerts users about safe, caution, or danger levels based on daily intake.
+### 🌟 Featured Projects  
+- 📊 **Predictive Analytics for MSRP (2025)**  
+  Developed **predictive models** to analyze vehicle pricing trends, providing insights for manufacturers to stay competitive.  
 
-- ♻️ **"GreenTechRecycle" Waste Sorting System**  
-  Created an **IoT-based** waste sorting system that categorizes waste into metal, organic, and non-organic types using sensors like inductive proximity and LDR.
+- 🏷️ **Classification Model for Nutrition Fact (2024)**  
+  Built a **classification model** using supermarket data, integrating **OpenCV and PaddleOCR** for object detection and text extraction.  
 
-- 📚 **"PerpusSmart" Library Management System**  
-  Designed a desktop application to automate library operations, improving efficiency in book tracking and inventory management.
+- 📱 **Model System Recommendation (2025)**  
+  Designed a **phone recommendation system** using **feature-based filtering**, helping users find the perfect device on platforms like Flipkart.  
 
-### Training & Certifications
-- **DBS Foundation Coding Camp 2024**: Machine Learning, Data Visualization, Python Programming  
-- **Bangkit Academy 2024**: TensorFlow, Generative Adversarial Networks (GANs), Deep Learning Specializations  
+- 🏪 **EDA & Clustering Dataset Sales (2025)**  
+  Applied **exploratory data analysis (EDA), PCA, and clustering techniques** to uncover customer segments and optimize marketing strategies.  
+
+- 🛒 **EDA E-Commerce Dataset (2024)**  
+  Conducted **e-commerce data analysis** to identify **sales trends, top-performing products, and customer buying patterns** for revenue optimization.  
+
+### 🏆 Training & Certifications  
+#### **Talent Scouting Academy 2024**  
+- Oracle Cloud Infrastructure Foundation I & II  
+
+#### **Bangkit Academy 2024**  
+- Mathematics for Machine Learning and Data Science Specialization (DeepLearning.AI)  
+- Machine Learning Specialization (DeepLearning.AI, Stanford University)  
+- DeepLearning.AI TensorFlow Developer Specialization (DeepLearning.AI)  
+- TensorFlow: Data and Deployment Specialization (DeepLearning.AI)  
+- TensorFlow: Advanced Techniques Specialization (DeepLearning.AI)  
+- Generative Adversarial Networks (GANs) Specialization (DeepLearning.AI)  
+- Natural Language Processing Specialization (DeepLearning.AI)  
+- Machine Learning Terapan (Dicoding Indonesia) (2025)  
 
 ---
 
-Feel free to explore my work and projects. You can find more details in my portfolio:
-- **Website Profile**: [miqbaljaffar.github.io](https://miqbaljaffar.github.io/username.github.io/)
-- **GitHub**: [github.com/miqbaljaffar](https://github.com/miqbaljaffar)
-- **LinkedIn**: [Mohammad Iqbal Jaffar](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/)
+Feel free to explore my work and projects!  
+📌 **Portfolio Website**: [Link Portfolio](https://drive.google.com/file/d/19rjKL4oSa0KZkrjJ7H5J7Ze0eJyhlhDc/view?usp=drive_link)  
+📌 **LinkedIn**: [Mohammad Iqbal Jaffar](https://www.linkedin.com/in/mohammad-iqbal-jaffar-091939290/)  
