@@ -1,5 +1,5 @@
 # Hi, I'm Mohammad Iqbal Jaffar! 👋  
-
+ 
 Welcome to my portfolio! I'm a passionate **Machine Learning Engineer** and **Data Scientist** with expertise in **AI-driven solutions, predictive modeling, and object detection**. Currently, I'm pursuing my **Bachelor’s degree in Informatics Engineering** at **Universitas Teknologi Bandung**, where I continuously refine my skills through real-world projects and specialized certifications.  
 
 ### 🚀 About Me  
